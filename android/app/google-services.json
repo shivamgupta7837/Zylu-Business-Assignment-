@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "337579308834",
+    "project_id": "check-vehicle-health",
+    "storage_bucket": "check-vehicle-health.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:337579308834:android:4b856bd0bd4005c488177b",
+        "android_client_info": {
+          "package_name": "com.example.fuel_efficiency"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "337579308834-vvqpe3i48g3snpumoc6hsl45se8khsto.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBr4tg1FGYGIJCdxf4eKZrj0WkAdSdFlpw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "337579308834-vvqpe3i48g3snpumoc6hsl45se8khsto.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
