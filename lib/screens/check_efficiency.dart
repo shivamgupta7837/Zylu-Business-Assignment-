@@ -3,7 +3,6 @@ import 'package:flutter/material.dart';
 import 'package:fuel_efficiency/models/vehicle.dart';
 
 class CheckEfficiency extends StatelessWidget {
-  List<Vehicle> listData = [];
   @override
   Widget build(BuildContext context) {
     return Scaffold(
